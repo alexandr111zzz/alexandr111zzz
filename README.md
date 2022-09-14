@@ -5,7 +5,7 @@
 
 Название проекта | 	Описание проекта | 	Используемый стек
 :----|:----------|:--------
-Анализ введения новой механики оплаты | Проанализировать итоги эксперимента по внедрению новой системы оплаты на сайте, дать оценку относительно успешности эксперимента | Python (pandas, numpy, scipy, pingouin, matplotlib, seaborn, requests), ClickHouse
+[Анализ введения новой механики оплаты](https://github.com/alexandr111zzz/new_payment_mechanics/blob/main/final_project.ipynb) | Проанализировать итоги эксперимента по внедрению новой системы оплаты на сайте, дать оценку относительно успешности эксперимента | Python (pandas, numpy, scipy, pingouin, matplotlib, seaborn, requests), ClickHouse
 <!---
 alexandr111zzz/alexandr111zzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
